@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guicavalheiroccb.github.io/vitrine-de-cursos/sitemap.xml
